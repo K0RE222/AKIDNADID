@@ -1,0 +1,108 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+ background-color: white;
+
+}
+.navbar a{
+  font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:#ed92a4;
+}
+.navbar img{
+height: auto;
+width: 9vw;
+}
+.card{
+  color: white;
+}
+.accordion-flush{
+  margin-left: 2vw;
+}
+.card-text{
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.card-title{
+  font-family: "Sixtyfour", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.btn, #oh{
+  font-family: "Sixtyfour", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h1, h2, h4{
+  font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:#ed92a4;
+}
+#idk{
+  margin-top: 3vw;
+  margin-left: 3vw;
+}
+.maria{
+  margin-top: 3vw;
+}
+#bs{
+  margin-top: 7vw;
+}
+#construction{
+  height: auto;
+  width: 100vw;
+}
+#lol{
+  margin-top: 5vw;
+  color: white;
+}
+#quantity{
+  height: auto;
+  width: 8vw;
+}
+.see{
+   margin-top: 2vw;
+  color: white;
+}
+#I{
+  font-family: "Rubik Spray Paint", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:#ed92a4;
+}
+#intro{
+  margin-top: 3vw;
+}
+.jt{
+  margin-top: 3vw;
+}
+.space{
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+}
+.nn{
+margin-bottom: 3vw;
+}
+
+.ww{
+  height:auto;
+  width: 46vw;
+}
+#sixer{
+  height:auto;
+  width: 45vw;
+}
+
+
+
+
+
+
+
